@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 
 venv/
+tagged_dataset/
+tagged_dataset_nltk/
