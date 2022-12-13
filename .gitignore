@@ -162,3 +162,6 @@ cython_debug/
 venv/
 tagged_dataset/
 tagged_dataset_nltk/
+tagged_dataset_spacy_de_core_news_sm/
+tagged_dataset_spacy_de_core_news_lg/
+tagged_dataset_spacy_de_dep_news_trf/
