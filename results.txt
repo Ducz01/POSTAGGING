@@ -4,6 +4,8 @@ de_core_news_lg - leicht: 12.96766972541809
 de_core_news_lg - standard: 11.300384998321533
 de_dep_news_trf - leicht: 445.93441557884216
 de_dep_news_trf - standard: 375.2629556655884
+nltk - leicht: 6.652710437774658
+nltk - standard: 6.109701156616211
 
 
 
