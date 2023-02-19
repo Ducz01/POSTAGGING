@@ -1,6 +1,9 @@
 from os import listdir
 from os.path import isfile, join
 
+
+# this script is used to create a file with the first 100000 words of the dataset each for leichte and standard sprache
+
 def get_word_count(text: str):
     return len(text.split())
 

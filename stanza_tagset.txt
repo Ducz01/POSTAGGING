@@ -1,0 +1,1 @@
+'NOUN', 'DET', 'PUNCT', 'ADP', 'PROPN', 'ADJ', 'VERB', 'ADV', 'PRON', 'AUX', 'CCONJ', 'NUM', 'PART', 'SCONJ', 'X', 'SYM'

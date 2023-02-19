@@ -1,0 +1,25 @@
+Ergebnisse der Laufzeiten für das Taggen von 100.000 Wörtern.
+
+de_core_news_sm - leicht: 12.514833927154541
+de_core_news_sm - standard: 10.301441669464111
+de_core_news_lg - leicht: 12.96766972541809
+de_core_news_lg - standard: 11.300384998321533
+de_dep_news_trf - leicht: 445.93441557884216
+de_dep_news_trf - standard: 375.2629556655884
+nltk - leicht: 6.652710437774658
+nltk - standard: 6.109701156616211
+stanford - leicht: 811.7144641876221
+stanford - standard: 831.7107360363007
+hannovertagger - leicht: 12.099812507629395
+hannovertagger - standard: 15.663996458053589
+
+
+
+Hardware:
+    
+      * CPU: AMD Ryzen 5 3600X 6-Core Processor
+      * RAM: 16 GB
+      * GPU: NVIDIA GeForce GTX 1660 Super
+      * SSD: 1TB
+
+      
